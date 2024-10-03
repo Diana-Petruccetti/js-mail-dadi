@@ -28,7 +28,12 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 // Creo variabile email
 let email
 // Crea lista array di chi può accedere al gioco
-
+const emails = [
+    'topogigio@live.it',
+    'dianapetruccetti@gmail.com',
+    'topolino@live.it',
+    'winniethepooh@alice.it'
+]
 
 // 2. Raccolta Dati
 // Chiedi all'utente la sua email e controlla che possa partecipare
