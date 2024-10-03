@@ -25,8 +25,13 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 */
 
 // 1. Preparazione
+// Creo variabile email
+let email
+// Crea lista array di chi può accedere al gioco
+
 
 // 2. Raccolta Dati
+// Chiedi all'utente la sua email e controlla che possa partecipare
 
 // 3. Elaborazione Dati
 
