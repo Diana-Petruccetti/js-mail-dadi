@@ -37,6 +37,8 @@ const emails = [
 
 // 2. Raccolta Dati
 // Chiedi all'utente la sua email e controlla che possa partecipare
+// Se può partecipare fai comparire il gioco
+// Altrimenti fai comparire messaggio adatto
 
 // 3. Elaborazione Dati
 
