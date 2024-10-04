@@ -63,7 +63,7 @@ if (canAccess) {
     alert ('Benvenuto/a');
 } else {
     alert ('Accesso negato');
-    
+    exit ();
 }
 
 
